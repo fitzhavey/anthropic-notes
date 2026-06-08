@@ -56,14 +56,14 @@ Backend developers building AI-powered APIs and services; full-stack engineers i
 - [Quiz on accessing Claude with the API](accessing-claude-with-the-api/09-quiz.md)
 
 ### Prompt evaluation
-- Prompt evaluation
-- A typical eval workflow
-- Generating test datasets
-- Running the eval
-- Model based grading
-- Code based grading
-- Exercise on prompt evals
-- Quiz on prompt evaluation
+- [Prompt evaluation](prompt-evaluation/01-prompt-evaluation.md)
+- [A typical eval workflow](prompt-evaluation/02-a-typical-eval-workflow.md)
+- [Generating test datasets](prompt-evaluation/03-generating-test-datasets.md)
+- [Running the eval](prompt-evaluation/04-running-the-eval.md)
+- [Model based grading](prompt-evaluation/05-model-based-grading.md)
+- [Code based grading](prompt-evaluation/06-code-based-grading.md)
+- Exercise on prompt evals _(exercise — no notes)_
+- [Quiz on prompt evaluation](prompt-evaluation/07-quiz.md)
 
 ### Prompt engineering techniques
 - Prompt engineering
