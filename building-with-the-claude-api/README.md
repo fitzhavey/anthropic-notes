@@ -66,13 +66,13 @@ Backend developers building AI-powered APIs and services; full-stack engineers i
 - [Quiz on prompt evaluation](prompt-evaluation/07-quiz.md)
 
 ### Prompt engineering techniques
-- Prompt engineering
-- Being clear and direct
-- Being specific
-- Structure with XML tags
-- Providing examples
-- Exercise on prompting
-- Quiz on prompt engineering techniques
+- [Prompt engineering](prompt-engineering-techniques/01-prompt-engineering.md)
+- [Being clear and direct](prompt-engineering-techniques/02-being-clear-and-direct.md)
+- [Being specific](prompt-engineering-techniques/03-being-specific.md)
+- [Structure with XML tags](prompt-engineering-techniques/04-structure-with-xml-tags.md)
+- [Providing examples](prompt-engineering-techniques/05-providing-examples.md)
+- Exercise on prompting _(exercise — no notes)_
+- [Quiz on prompt engineering techniques](prompt-engineering-techniques/06-quiz.md)
 
 ### Tool use with Claude
 - Introducing tool use
