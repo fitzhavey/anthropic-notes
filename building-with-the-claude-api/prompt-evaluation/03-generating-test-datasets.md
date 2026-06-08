@@ -2,6 +2,8 @@
 
 Course: [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) · Module: Prompt evaluation
 
+> Lesson download: `[001_prompt_evals.ipynb](../notebooks/001_prompt_evals.ipynb)`
+
 Building a custom prompt evaluation workflow starts with creating a solid prompt and then generating test data to see how well it performs. This walks through setting up an evaluation system for a prompt that helps users write AWS-specific code.
 
 ## Setting up the goal

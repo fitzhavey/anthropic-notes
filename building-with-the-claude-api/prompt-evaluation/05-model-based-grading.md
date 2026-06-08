@@ -2,6 +2,8 @@
 
 Course: [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) · Module: Prompt evaluation
 
+> Lesson download: `[001_prompt_evals_grader.ipynb](../notebooks/001_prompt_evals_grader.ipynb)`
+
 When building prompt evaluation workflows, grading systems provide objective signals about output quality. A grader takes model output and returns measurable feedback — typically a number between 1 and 10, where 10 represents high quality and 1 represents poor quality.
 
 ## Types of graders

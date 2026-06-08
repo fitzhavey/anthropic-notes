@@ -75,9 +75,9 @@ Backend developers building AI-powered APIs and services; full-stack engineers i
 - [Quiz on prompt engineering techniques](prompt-engineering-techniques/06-quiz.md)
 
 ### Tool use with Claude
-- Introducing tool use
-- Project overview
-- Tool functions
+- [Introducing tool use](tool-use-with-claude/01-introducing-tool-use.md)
+- [Project overview](tool-use-with-claude/02-project-overview.md)
+- [Tool functions](tool-use-with-claude/03-tool-functions.md)
 - Tool schemas
 - Handling message blocks
 - Sending tool results
