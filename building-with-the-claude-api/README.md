@@ -90,13 +90,13 @@ Backend developers building AI-powered APIs and services; full-stack engineers i
 - [Quiz on tool use with Claude](tool-use-with-claude/13-quiz.md)
 
 ### RAG and Agentic Search
-- Introducing Retrieval Augmented Generation
-- Text chunking strategies
-- Text embeddings
-- The full RAG flow
-- Implementing the RAG flow
-- BM25 lexical search
-- A Multi-Index RAG pipeline
+- [Introducing Retrieval Augmented Generation](rag-and-agentic-search/01-introducing-retrieval-augmented-generation.md)
+- [Text chunking strategies](rag-and-agentic-search/02-text-chunking-strategies.md)
+- [Text embeddings](rag-and-agentic-search/03-text-embeddings.md)
+- [The full RAG flow](rag-and-agentic-search/04-the-full-rag-flow.md)
+- [Implementing the RAG flow](rag-and-agentic-search/05-implementing-the-rag-flow.md)
+- [BM25 lexical search](rag-and-agentic-search/06-bm25-lexical-search.md)
+- [A Multi-Index RAG pipeline](rag-and-agentic-search/07-a-multi-index-rag-pipeline.md)
 
 ### Features of Claude
 - Extended thinking
