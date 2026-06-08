@@ -21,13 +21,6 @@ _Add notes, takeaways, and links per course as you go._
 
 [Course README](introduction-to-agent-skills/README.md)
 
-- [Lesson 1 — What are skills?](introduction-to-agent-skills/01-what-are-skills.md)
-- [Lesson 2 — Creating your first skill](introduction-to-agent-skills/02-creating-your-first-skill.md)
-- [Lesson 3 — Configuration and multi-file skills](introduction-to-agent-skills/03-configuration-and-multi-file-skills.md)
-- [Lesson 4 — Skills vs. other Claude Code features](introduction-to-agent-skills/04-skills-vs-other-claude-code-features.md)
-- [Lesson 5 — Sharing skills](introduction-to-agent-skills/05-sharing-skills.md)
-- [Lesson 6 — Troubleshooting skills](introduction-to-agent-skills/06-troubleshooting-skills.md)
-
 ### 2. Building with the Claude API
 
 [Course README](building-with-the-claude-api/README.md)

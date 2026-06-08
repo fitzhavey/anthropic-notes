@@ -42,18 +42,18 @@ Backend developers building AI-powered APIs and services; full-stack engineers i
 
 ### Accessing Claude with the API
 - [Accessing the API](accessing-claude-with-the-api/01-accessing-the-api.md)
-- Getting an API key
-- Making a request
-- Multi-Turn conversations
-- Chat exercise
-- System prompts
-- System prompts exercise
-- Temperature
-- Course satisfaction survey
-- Response streaming
-- Structured data
-- Structured data exercise
-- Quiz on accessing Claude with the API
+- [Getting an API key](accessing-claude-with-the-api/02-getting-an-api-key.md)
+- [Making a request](accessing-claude-with-the-api/03-making-a-request.md)
+- [Multi-Turn conversations](accessing-claude-with-the-api/04-multi-turn-conversations.md)
+- Chat exercise _(exercise — no notes)_
+- [System prompts](accessing-claude-with-the-api/05-system-prompts.md)
+- System prompts exercise _(exercise — no notes)_
+- [Temperature](accessing-claude-with-the-api/06-temperature.md)
+- Course satisfaction survey _(survey — no notes)_
+- [Response streaming](accessing-claude-with-the-api/07-response-streaming.md)
+- [Structured data](accessing-claude-with-the-api/08-structured-data.md)
+- Structured data exercise _(exercise — no notes)_
+- [Quiz on accessing Claude with the API](accessing-claude-with-the-api/09-quiz.md)
 
 ### Prompt evaluation
 - Prompt evaluation
