@@ -2,7 +2,7 @@
 
 Course: [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) · Module: Prompt evaluation
 
-> Lesson download: `[001_prompt_evals_fns.ipynb](../notebooks/001_prompt_evals_fns.ipynb)`
+> Lesson download: [001_prompt_evals_fns.ipynb](../notebooks/001_prompt_evals_fns.ipynb)
 
 When evaluating AI models that generate code, you need more than just checking if the response makes sense. You also need to verify that the generated code actually has valid syntax and follows the correct format. This is where code-based grading comes in.
 
