@@ -1,0 +1,71 @@
+# The web search tool
+
+Course: [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) · Module: Tool use with Claude
+
+> Lesson downloads: [006_web_search.ipynb](../.notebooks/006_web_search.ipynb), [006_web_search_complete.ipynb](../.notebooks/006_web_search_complete.ipynb)
+>
+> **Note:** Your organization must enable the Web Search tool in the settings console before using it: <https://console.anthropic.com/settings/privacy>
+
+Claude includes a built-in web search tool that lets it search the internet for current or specialized information to answer user questions. Unlike other tools where you need to provide the implementation, Claude handles the entire search process automatically — you just need to provide a simple schema to enable it.
+
+## Setting up the web search tool
+
+To use the web search tool, create a schema object with these required fields:
+
+```python
+web_search_schema = {
+    "type": "web_search_20250305",
+    "name": "web_search",
+    "max_uses": 5
+}
+```
+
+The `max_uses` field limits how many searches Claude can perform. Claude might do follow-up searches based on initial results, so this prevents excessive API calls. A single search returns multiple results, but Claude may decide additional searches are needed.
+
+## How the response works
+
+When Claude uses the web search tool, the response contains several types of blocks:
+
+- **Text blocks** — Claude's explanation of what it's doing
+- **ServerToolUseBlock** — Shows the exact search query Claude used
+- **WebSearchToolResultBlock** — Contains the search results
+- **WebSearchResultBlock** — Individual search results with titles and URLs
+- **Citation blocks** — Text that supports Claude's statements
+
+The response structure lets you see exactly what Claude searched for and which sources it found. Citations include the specific text Claude used to support its answers, along with the source URLs.
+
+## Restricting search domains
+
+You can limit searches to specific domains using the `allowed_domains` field. This is particularly useful when you want reliable, authoritative sources:
+
+```python
+web_search_schema = {
+    "type": "web_search_20250305",
+    "name": "web_search",
+    "max_uses": 5,
+    "allowed_domains": ["nih.gov"]
+}
+```
+
+For example, when asking about medical or exercise advice, restricting to domains like PubMed (`nih.gov`) ensures you get evidence-based information rather than random blog content.
+
+## Rendering search results
+
+The different block types in the response are designed for specific UI rendering:
+
+- Render text blocks as regular content
+- Display web search results as a list of sources at the top
+- Show citations inline with the text, including the source domain, page title, URL, and quoted text
+
+This structure helps users understand how Claude arrived at its answers and provides transparency about the sources being used. The citation format makes it clear which specific information came from which sources, building trust in the AI's responses.
+
+## Practical usage
+
+The web search tool works best for:
+
+- Current events and recent developments
+- Specialized information not in Claude's training data
+- Fact-checking and finding authoritative sources
+- Research tasks requiring up-to-date information
+
+Simply include the schema in your tools array when making API calls, and Claude will automatically decide when a web search would help answer the user's question.

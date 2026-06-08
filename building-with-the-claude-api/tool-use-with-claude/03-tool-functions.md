@@ -2,7 +2,7 @@
 
 Course: [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) · Module: Tool use with Claude
 
-> Lesson download: [001_tools.ipynb](../notebooks/001_tools.ipynb)
+> Lesson download: [001_tools.ipynb](../.notebooks/001_tools.ipynb)
 
 When building AI applications with Claude, you'll often need to give it access to real-time information or the ability to perform actions. This is where tool functions come in — they're Python functions that Claude can call when it needs additional data to help users.
 

@@ -78,16 +78,16 @@ Backend developers building AI-powered APIs and services; full-stack engineers i
 - [Introducing tool use](tool-use-with-claude/01-introducing-tool-use.md)
 - [Project overview](tool-use-with-claude/02-project-overview.md)
 - [Tool functions](tool-use-with-claude/03-tool-functions.md)
-- Tool schemas
-- Handling message blocks
-- Sending tool results
-- Multi-turn conversations with tools
-- Implementing multiple turns
-- Using multiple tools
-- Fine grained tool calling
-- The text edit tool
-- The web search tool
-- Quiz on tool use with Claude
+- [Tool schemas](tool-use-with-claude/04-tool-schemas.md)
+- [Handling message blocks](tool-use-with-claude/05-handling-message-blocks.md)
+- [Sending tool results](tool-use-with-claude/06-sending-tool-results.md)
+- [Multi-turn conversations with tools](tool-use-with-claude/07-multi-turn-conversations-with-tools.md)
+- [Implementing multiple turns](tool-use-with-claude/08-implementing-multiple-turns.md)
+- [Using multiple tools](tool-use-with-claude/09-using-multiple-tools.md)
+- [Fine grained tool calling](tool-use-with-claude/10-fine-grained-tool-calling.md)
+- [The text edit tool](tool-use-with-claude/11-the-text-edit-tool.md)
+- [The web search tool](tool-use-with-claude/12-the-web-search-tool.md)
+- [Quiz on tool use with Claude](tool-use-with-claude/13-quiz.md)
 
 ### RAG and Agentic Search
 - Introducing Retrieval Augmented Generation
