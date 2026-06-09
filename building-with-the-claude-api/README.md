@@ -124,10 +124,10 @@ Backend developers building AI-powered APIs and services; full-stack engineers i
 - [Quiz on Model Context Protocol](model-context-protocol/11-quiz.md)
 
 ### Anthropic apps — Claude Code and computer use
-- Anthropic apps
-- Claude Code setup
-- Claude Code in action
-- Enhancements with MCP servers
+- [Anthropic apps](anthropic-apps/01-anthropic-apps.md)
+- [Claude Code setup](anthropic-apps/02-claude-code-setup.md)
+- [Claude Code in action](anthropic-apps/03-claude-code-in-action.md)
+- [Enhancements with MCP servers](anthropic-apps/04-enhancements-with-mcp-servers.md)
 
 ### Agents and workflows
 - Agents and workflows
