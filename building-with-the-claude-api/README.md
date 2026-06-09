@@ -99,15 +99,15 @@ Backend developers building AI-powered APIs and services; full-stack engineers i
 - [A Multi-Index RAG pipeline](rag-and-agentic-search/07-a-multi-index-rag-pipeline.md)
 
 ### Features of Claude
-- Extended thinking
-- Image support
-- PDF support
-- Citations
-- Prompt caching
-- Rules of prompt caching
-- Prompt caching in action
-- Code execution and the Files API
-- Quiz on features of Claude
+- [Extended thinking](features-of-claude/01-extended-thinking.md)
+- [Image support](features-of-claude/02-image-support.md)
+- [PDF support](features-of-claude/03-pdf-support.md)
+- [Citations](features-of-claude/04-citations.md)
+- [Prompt caching](features-of-claude/05-prompt-caching.md)
+- [Rules of prompt caching](features-of-claude/06-rules-of-prompt-caching.md)
+- [Prompt caching in action](features-of-claude/07-prompt-caching-in-action.md)
+- [Code execution and the Files API](features-of-claude/08-code-execution-and-the-files-api.md)
+- [Quiz on features of Claude](features-of-claude/09-quiz.md)
 
 ### Model Context Protocol
 - Introducing MCP
