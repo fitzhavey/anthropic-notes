@@ -2,7 +2,7 @@
 
 Course: [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) · Module: Prompt engineering techniques
 
-> Lesson downloads: [001_prompting.ipynb](../.notebooks/001_prompting.ipynb), [002_prompting_completed.ipynb](../.notebooks/002_prompting_completed.ipynb)
+> Lesson downloads: [001_prompting.ipynb](../.resources/001_prompting.ipynb), [002_prompting_completed.ipynb](../.resources/002_prompting_completed.ipynb)
 
 Prompt engineering is about taking a prompt you've written and improving it to get more reliable, higher-quality outputs. This process involves iterative refinement — starting with a basic prompt, evaluating its performance, then systematically applying engineering techniques to improve it.
 

@@ -2,7 +2,7 @@
 
 Course: [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) · Module: Tool use with Claude
 
-> Lesson downloads: [006_web_search.ipynb](../.notebooks/006_web_search.ipynb), [006_web_search_complete.ipynb](../.notebooks/006_web_search_complete.ipynb)
+> Lesson downloads: [006_web_search.ipynb](../.resources/006_web_search.ipynb), [006_web_search_complete.ipynb](../.resources/006_web_search_complete.ipynb)
 >
 > **Note:** Your organization must enable the Web Search tool in the settings console before using it: <https://console.anthropic.com/settings/privacy>
 

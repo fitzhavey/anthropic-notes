@@ -2,7 +2,7 @@
 
 Course: [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) · Module: Tool use with Claude
 
-> Lesson download: [001_tools_007.ipynb](../.notebooks/001_tools_007.ipynb)
+> Lesson download: [001_tools_007.ipynb](../.resources/001_tools_007.ipynb)
 
 When building applications with multiple tools, you need to handle scenarios where Claude might need to call several tools in sequence to answer a single user question. For example, if a user asks "What day is 103 days from today?", Claude needs to first get the current date, then add 103 days to it.
 

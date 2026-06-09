@@ -2,7 +2,7 @@
 
 Course: [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) · Module: RAG and Agentic Search
 
-> Lesson downloads: [002_embeddings.ipynb](../.notebooks/002_embeddings.ipynb), [VoyageAI_API_Key_Directions.pdf](../.notebooks/VoyageAI_API_Key_Directions.pdf)
+> Lesson downloads: [002_embeddings.ipynb](../.resources/002_embeddings.ipynb), [VoyageAI_API_Key_Directions.pdf](../.resources/VoyageAI_API_Key_Directions.pdf)
 
 After breaking a document into chunks, the next step in a RAG pipeline is finding which chunks are most relevant to a user's question. This is essentially a search problem — you need to look through all your text chunks and identify the ones that relate to what the user is asking about.
 

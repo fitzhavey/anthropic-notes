@@ -2,7 +2,7 @@
 
 Course: [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) · Module: RAG and Agentic Search
 
-> Lesson download: [005_hybrid.ipynb](../.notebooks/005_hybrid.ipynb)
+> Lesson download: [005_hybrid.ipynb](../.resources/005_hybrid.ipynb)
 
 We've built separate implementations for semantic search (using vector embeddings) and lexical search (using BM25). Now it's time to combine them into a unified search pipeline that leverages the strengths of both approaches.
 

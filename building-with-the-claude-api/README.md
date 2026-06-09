@@ -110,18 +110,18 @@ Backend developers building AI-powered APIs and services; full-stack engineers i
 - [Quiz on features of Claude](features-of-claude/09-quiz.md)
 
 ### Model Context Protocol
-- Introducing MCP
-- MCP clients
-- Project setup
-- Defining tools with MCP
-- The server inspector
-- Implementing a client
-- Defining resources
-- Accessing resources
-- Defining prompts
-- Prompts in the client
-- MCP review
-- Quiz on Model Context Protocol
+- [Introducing MCP](model-context-protocol/01-introducing-mcp.md)
+- [MCP clients](model-context-protocol/02-mcp-clients.md)
+- [Project setup](model-context-protocol/03-project-setup.md)
+- [Defining tools with MCP](model-context-protocol/04-defining-tools-with-mcp.md)
+- [The server inspector](model-context-protocol/05-the-server-inspector.md)
+- [Implementing a client](model-context-protocol/06-implementing-a-client.md)
+- [Defining resources](model-context-protocol/07-defining-resources.md)
+- [Accessing resources](model-context-protocol/08-accessing-resources.md)
+- [Defining prompts](model-context-protocol/09-defining-prompts.md)
+- [Prompts in the client](model-context-protocol/10-prompts-in-the-client.md)
+- MCP review _(video only — no notes)_
+- [Quiz on Model Context Protocol](model-context-protocol/11-quiz.md)
 
 ### Anthropic apps — Claude Code and computer use
 - Anthropic apps

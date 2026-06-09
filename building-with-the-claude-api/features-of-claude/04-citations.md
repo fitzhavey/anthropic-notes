@@ -2,7 +2,7 @@
 
 Course: [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) · Module: Features of Claude
 
-> Lesson downloads: [002_citations_complete.ipynb](../.notebooks/002_citations_complete.ipynb), [earth.pdf](../.notebooks/earth.pdf)
+> Lesson downloads: [002_citations_complete.ipynb](../.resources/002_citations_complete.ipynb), [earth.pdf](../.resources/earth.pdf)
 
 When Claude answers questions based on documents you provide, users might assume it's just drawing from its training data. But what if Claude could show exactly where it found specific information? That's where citations come in — a feature that lets Claude reference specific parts of your source documents and show users exactly where each piece of information comes from.
 

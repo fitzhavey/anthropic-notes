@@ -2,7 +2,7 @@
 
 Course: [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) · Module: RAG and Agentic Search
 
-> Lesson downloads: [001_chunking.ipynb](../.notebooks/001_chunking.ipynb), [report.md](../.notebooks/report.md)
+> Lesson downloads: [001_chunking.ipynb](../.resources/001_chunking.ipynb), [report.md](../.resources/report.md)
 
 Text chunking is one of the most critical steps in building a RAG pipeline. How you break up your documents directly impacts the quality of your entire system. A poor chunking strategy can lead to irrelevant context being inserted into your prompts, causing your AI to give completely wrong answers.
 

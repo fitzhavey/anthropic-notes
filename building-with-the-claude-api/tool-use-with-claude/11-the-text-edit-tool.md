@@ -2,7 +2,7 @@
 
 Course: [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) · Module: Tool use with Claude
 
-> Lesson download: [005_text_editor_tool.ipynb](../.notebooks/005_text_editor_tool.ipynb)
+> Lesson download: [005_text_editor_tool.ipynb](../.resources/005_text_editor_tool.ipynb)
 >
 > **Note:** Tool version strings for all model versions are documented at <https://docs.anthropic.com/en/docs/agents-and-tools/tool-use/text-editor-tool>
 

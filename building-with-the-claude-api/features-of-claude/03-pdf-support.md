@@ -2,7 +2,7 @@
 
 Course: [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) · Module: Features of Claude
 
-> Lesson download: [earth.pdf](../.notebooks/earth.pdf)
+> Lesson download: [earth.pdf](../.resources/earth.pdf)
 
 Claude can read and analyze PDF files directly, making it a powerful tool for document processing. This works similarly to image processing, but with a few key differences in how you structure your code.
 

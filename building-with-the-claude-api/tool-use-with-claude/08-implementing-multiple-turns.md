@@ -2,7 +2,7 @@
 
 Course: [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) · Module: Tool use with Claude
 
-> Lesson download: [001_tools_008.ipynb](../.notebooks/001_tools_008.ipynb)
+> Lesson download: [001_tools_008.ipynb](../.resources/001_tools_008.ipynb)
 
 Building a conversation system with tools requires implementing a loop that keeps calling Claude until it stops requesting tool usage. When Claude no longer asks for tools, that signals it has a final response ready for the user.
 

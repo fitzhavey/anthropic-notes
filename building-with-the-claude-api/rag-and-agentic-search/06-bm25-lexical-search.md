@@ -2,7 +2,7 @@
 
 Course: [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) · Module: RAG and Agentic Search
 
-> Lesson download: [004_bm25.ipynb](../.notebooks/004_bm25.ipynb)
+> Lesson download: [004_bm25.ipynb](../.resources/004_bm25.ipynb)
 
 When building RAG pipelines, you'll quickly discover that semantic search alone doesn't always return the best results. Sometimes you need exact term matches that semantic search might miss. The solution is to combine semantic search with lexical search using a technique called BM25.
 

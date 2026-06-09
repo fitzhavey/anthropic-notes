@@ -2,7 +2,7 @@
 
 Course: [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) · Module: Features of Claude
 
-> Lesson downloads: [002_images.ipynb](../.notebooks/002_images.ipynb), [images.zip](../.notebooks/images.zip)
+> Lesson downloads: [002_images.ipynb](../.resources/002_images.ipynb), [images.zip](../.resources/images.zip)
 
 Claude's vision capabilities let you include images in your messages and ask Claude to analyze them in countless ways — describe what's in an image, compare multiple images, count objects, or perform complex visual analysis tasks.
 

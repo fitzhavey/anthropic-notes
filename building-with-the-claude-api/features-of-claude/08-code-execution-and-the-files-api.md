@@ -2,7 +2,7 @@
 
 Course: [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) · Module: Features of Claude
 
-> Lesson downloads: [005_code_execution.ipynb](../.notebooks/005_code_execution.ipynb), [streaming.csv](../.notebooks/streaming.csv)
+> Lesson downloads: [005_code_execution.ipynb](../.resources/005_code_execution.ipynb), [streaming.csv](../.resources/streaming.csv)
 
 The Anthropic API offers two powerful features that work exceptionally well together: the Files API and Code Execution. Combining them opens up interesting possibilities for delegating complex tasks to Claude.
 

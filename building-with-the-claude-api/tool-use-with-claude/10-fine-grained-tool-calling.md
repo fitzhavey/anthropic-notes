@@ -2,7 +2,7 @@
 
 Course: [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) · Module: Tool use with Claude
 
-> Lesson downloads: [003_tool_streaming.ipynb](../.notebooks/003_tool_streaming.ipynb), [003_tool_streaming_completed.ipynb](../.notebooks/003_tool_streaming_completed.ipynb)
+> Lesson downloads: [003_tool_streaming.ipynb](../.resources/003_tool_streaming.ipynb), [003_tool_streaming_completed.ipynb](../.resources/003_tool_streaming_completed.ipynb)
 
 When you combine tool use with streaming in Claude, you get real-time updates as the AI generates tool arguments. This creates a more responsive user experience, but there are some important details about how it works behind the scenes.
 

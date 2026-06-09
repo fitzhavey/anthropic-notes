@@ -2,7 +2,7 @@
 
 Course: [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) · Module: Features of Claude
 
-> Lesson download: [003_caching.ipynb](../.notebooks/003_caching.ipynb)
+> Lesson download: [003_caching.ipynb](../.resources/003_caching.ipynb)
 
 Prompt caching is a powerful optimization feature that makes your API requests both faster and cheaper when you're repeatedly sending the same content to Claude.
 

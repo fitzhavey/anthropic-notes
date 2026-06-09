@@ -2,7 +2,7 @@
 
 Course: [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) · Module: RAG and Agentic Search
 
-> Lesson download: [003_vectordb.ipynb](../.notebooks/003_vectordb.ipynb)
+> Lesson download: [003_vectordb.ipynb](../.resources/003_vectordb.ipynb)
 
 Now that we understand the RAG flow conceptually, let's implement it step by step — chunk text, generate embeddings, store them in a vector database, and perform similarity searches.
 

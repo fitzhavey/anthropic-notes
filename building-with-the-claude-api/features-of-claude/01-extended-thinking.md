@@ -2,7 +2,7 @@
 
 Course: [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) · Module: Features of Claude
 
-> Lesson downloads: [001_thinking.ipynb](../.notebooks/001_thinking.ipynb), [001_thinking_complete.ipynb](../.notebooks/001_thinking_complete.ipynb)
+> Lesson downloads: [001_thinking.ipynb](../.resources/001_thinking.ipynb), [001_thinking_complete.ipynb](../.resources/001_thinking_complete.ipynb)
 >
 > **Note:** Extended thinking is not compatible with some other features, notably message pre-filling and temperature. See the full list of restrictions at <https://docs.anthropic.com/en/docs/build-with-claude/extended-thinking#feature-compatibility>
 

@@ -2,7 +2,7 @@
 
 Course: [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) · Module: Tool use with Claude
 
-> Lesson download: [001_tools_009.ipynb](../.notebooks/001_tools_009.ipynb)
+> Lesson download: [001_tools_009.ipynb](../.resources/001_tools_009.ipynb)
 
 Adding multiple tools to your Claude implementation becomes straightforward once you have the core tool-handling infrastructure in place. This follows a simple pattern.
 
