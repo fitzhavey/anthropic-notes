@@ -130,14 +130,14 @@ Backend developers building AI-powered APIs and services; full-stack engineers i
 - [Enhancements with MCP servers](anthropic-apps/04-enhancements-with-mcp-servers.md)
 
 ### Agents and workflows
-- Agents and workflows
-- Parallelization workflows
-- Chaining workflows
-- Routing workflows
-- Agents and tools
-- Environment inspection
-- Workflows vs agents
-- Quiz on Agents and Workflows
+- [Agents and workflows](agents-and-workflows/01-agents-and-workflows.md)
+- [Parallelization workflows](agents-and-workflows/02-parallelization-workflows.md)
+- [Chaining workflows](agents-and-workflows/03-chaining-workflows.md)
+- [Routing workflows](agents-and-workflows/04-routing-workflows.md)
+- [Agents and tools](agents-and-workflows/05-agents-and-tools.md)
+- [Environment inspection](agents-and-workflows/06-environment-inspection.md)
+- [Workflows vs agents](agents-and-workflows/07-workflows-vs-agents.md)
+- [Quiz on Agents and Workflows](agents-and-workflows/08-quiz.md)
 
 ### Final assessment
 - Final Assessment
