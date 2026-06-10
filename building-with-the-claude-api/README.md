@@ -2,7 +2,7 @@
 
 [Course on Anthropic Academy / Skilljar](https://anthropic.skilljar.com/claude-with-the-anthropic-api)
 
-**Status:** 3 of 85 lessons completed (3%) ◐ In progress
+**Status:** ✅ Complete (85 of 85 lessons)
 
 ## About this course
 
@@ -140,7 +140,7 @@ Backend developers building AI-powered APIs and services; full-stack engineers i
 - [Quiz on Agents and Workflows](agents-and-workflows/08-quiz.md)
 
 ### Final assessment
-- Final Assessment
+- [Final Assessment](final-assessment.md)
 
 ### Wrapping up!
-- Course Wrap Up
+- Course Wrap Up _(video only — no notes)_
